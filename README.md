@@ -1,5 +1,7 @@
 Currency Converter 💱
 
+**🚀 [Live Demo](https://currency-converter-faae55.netlify.app/)**
+
 A simple and intuitive web application that allows users to convert amounts between different currencies in real time.
 The app features a clean, responsive interface where users can:
 
